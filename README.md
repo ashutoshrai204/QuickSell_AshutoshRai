@@ -1,5 +1,7 @@
 # Getting Started with Create React App
 
+Made by Ashutosh Rai, 2101112EC
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
